@@ -37,5 +37,5 @@ Aby uruchomić projekt na swoim komputerze, upewnij się, że masz zainstalowane
 
 1. Sklonuj repozytorium:
    ```bash
-   git clone [https://github.com/TWOJA_NAZWA/wse-stock-tracker.git](https://github.com/TWOJA_NAZWA/wse-stock-tracker.git)
+   git clone [https://github.com/mateuszkowalczyk-git/wse-stock-tracker.git](https://github.com/mateuszkowalczyk-git/wse-stock-tracker.git)
    cd wse-stock-tracker
